@@ -1,0 +1,21 @@
+.topic-item{
+    width: 227px;
+    height: 230px;
+    margin-right: 13px;
+}
+.topic-item:last-child{
+    margin-right: 0px;
+}
+.topic-item a{
+    color: #3883de;
+    font-size: 18px;
+    margin-bottom: 10px;
+    display: block;
+}
+.topic-item img{
+    display: inline;
+    margin-right: 15px;
+}
+
+
+/* css for hiển thi kết quả tìm kiếm */

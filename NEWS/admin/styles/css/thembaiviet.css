@@ -1,0 +1,37 @@
+#wrapper_them_bai_viet{
+    padding-top: 25px;
+}
+#main_content h3{
+    color: blue;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.form-control-marginbottom{
+    margin-bottom: 15px;
+}
+.dangbai{
+    margin-bottom: 15px;
+}
+.themhinhanh {
+    margin-bottom: 15px;
+}
+/* style for quanlithanhvien.php */
+#main_content{
+    border-top: 6px double #c4c4c4;
+    padding-top: 40px ;
+    margin-bottom: 40px;
+}
+.a-them {
+    color: #ffffff;
+    text-decoration: none;
+}
+.a-them:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* style themthanhvien */
+#bangthemthanhvien{
+    width: 450px;
+    margin: 10px auto;
+}
